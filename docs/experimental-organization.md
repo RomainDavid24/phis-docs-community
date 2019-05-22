@@ -400,7 +400,7 @@ The list of documents a given user has access to is avaible from the navigation 
 From **Home / Documents**, one can click on the eye icon on the right to see a given document information sheet (metadata).
 From there, the document cannot be modified or deleted (in Phis current version).
 However, the document metadata can be modified with the <span class="btn btn-primary">Update</span> button on top of the information sheet.
-The document can also be downloaded clicking on the ![view](img/view_64_32.png) icon above the **View / Download** text, below the information sheet.
+The document can also be downloaded clicking on the ![view class=icon](img/view_64_32.png) icon above the **View / Download** text, below the information sheet.
 
 ![update-document](img/document-update.png)
 
